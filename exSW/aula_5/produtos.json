@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Arroz",
+        "preco": 10.5,
+        "quantidade": 5
+    },
+    {
+        "nome": "Feij\u00e3o",
+        "preco": 8,
+        "quantidade": 3
+    },
+    {
+        "nome": "Macarr\u00e3o",
+        "preco": 4.5,
+        "quantidade": 10
+    }
+]
